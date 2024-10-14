@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HVberg
+- 👋 Hi, I’m @Ted64Kw
 - 👀 I’m interested in ...make a battery emulator for Chevrolet Bolt/ Opel Ampera E battery
 
 - 
